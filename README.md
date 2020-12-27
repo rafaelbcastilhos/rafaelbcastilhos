@@ -1,6 +1,6 @@
 ## Hi there :metal:
 
-<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcastilhos&layout=compact&hide=css,html"/>
+<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcastilhos&hide=css,html"/>
 
 ### About me:
 - :books: Undergraduate in Analysis and Systems Development at IFRS.
