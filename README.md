@@ -4,5 +4,5 @@
 
 ### About me:
 - :books: Undergraduate in Computer Science at UFSC.
-- :coffee: Learning Java and REST APIs.
+- :coffee: Learning Java and AWS Services.
 - :zap: Working with Serverless Architecture.
