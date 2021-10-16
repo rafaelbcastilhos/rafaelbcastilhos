@@ -8,7 +8,7 @@
 
 #### Tech stack:
 - 💻 Python | Java | C/C++ | VHDL
-- ☁️ Amazon Web Services | Google Cloud Plataform
+- ☁️ AWS | GCP
 - 🧰 GNU/Linux | Git | Shell | Docker | Swagger 
 - 🛢 PostgreSQL | DynamoDB | MongoDB
 - 📝 Swagger | OpenAPI | LaTeX
