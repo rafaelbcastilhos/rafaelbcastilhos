@@ -1,8 +1,13 @@
-## Hi there :metal:
+## Howdy :metal:
 
-<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbcastilhos&layout=compact&hide=css,html&langs_count=7"/>
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
-### About me:
-- :books: Undergraduate in Computer Science at UFSC.
-- :coffee: Learning Java and AWS Services.
-- :zap: Working with Serverless Architecture.
+#### About me:
+- 📚 Undergraduate in Computer Science at UFSC.
+- ⚡ Working with Serverless Architecture.
+
+#### Tech stack:
+- 💻 Python | Java | C/C++ | VHDL
+- ☁️ Amazon Web Services | Google Cloud Plataform
+- 🧰 GNU/Linux | Git | Shell | Docker | Swagger | LaTeX 
+- 🛢 PostgreSQL | DynamoBD | MongoDB
