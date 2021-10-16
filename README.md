@@ -10,5 +10,5 @@
 - 💻 Python | Java | C/C++ | VHDL
 - ☁️ Amazon Web Services | Google Cloud Plataform
 - 🧰 GNU/Linux | Git | Shell | Docker | Swagger 
-- 🛢 PostgreSQL | DynamoBD | MongoDB
+- 🛢 PostgreSQL | DynamoDB | MongoDB
 - 📝 Swagger | OpenAPI | LaTeX
