@@ -9,6 +9,6 @@
 #### Tech stack:
 - 💻 Python | Java | C/C++ | VHDL
 - ☁️ AWS | GCP
-- 🧰 GNU/Linux | Git | Shell | Docker | Swagger 
+- 🧰 GNU/Linux | Git | Shell | Docker 
 - 🛢 PostgreSQL | DynamoDB | MongoDB
 - 📝 Swagger | OpenAPI | LaTeX
