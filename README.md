@@ -7,7 +7,7 @@
 - ⚡ Working with Serverless Architecture.
 
 #### Tech stack:
-- 💻 Java | Python | C/C++ | VHDL
+- 💻 Java | Python
 - ☁️ AWS | GCP
 - 🧰 GNU/Linux | Git | Shell | Docker 
 - 🛢 PostgreSQL | DynamoDB | MongoDB
