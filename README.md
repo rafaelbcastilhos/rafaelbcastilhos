@@ -2,8 +2,7 @@
 
 #### About me:
 - 🎓 Graduate in Computer Science at UFSC, Florianópolis.
-- ⚡ Working with Serverless Architecture at AWS.
-- 📚 Read posts on my [**Website**](https://rafaelbcastilhos.github.io/posts/). 
+- ⚡ Working with Java, Spring and AWS.
 - 🎖️ Check my certifications on [**Credly**](https://www.credly.com/users/rafael-begnini-de-castilhos/badges).
 - 💡 Visit my [**Linkedin**](https://www.linkedin.com/in/rafaelbcastilhos/) profile.
 
